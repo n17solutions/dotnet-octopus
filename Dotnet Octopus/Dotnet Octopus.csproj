@@ -5,7 +5,6 @@
     <AssemblyName>dotnet-octopus</AssemblyName>
     <RootNamespace>Dotnet.Octopus</RootNamespace>
     <PackageType>DotnetCliTool</PackageType>
-    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <LangVersion>7.1</LangVersion>
   </PropertyGroup>
   

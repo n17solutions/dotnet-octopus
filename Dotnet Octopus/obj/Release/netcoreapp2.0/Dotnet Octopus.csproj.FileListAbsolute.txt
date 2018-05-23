@@ -8,3 +8,4 @@
 /Users/wooderz/Development/Dotnet Octopus/Dotnet Octopus/obj/Release/netcoreapp2.0/Dotnet Octopus.AssemblyInfo.cs
 /Users/wooderz/Development/Dotnet Octopus/Dotnet Octopus/obj/Release/netcoreapp2.0/dotnet-octopus.dll
 /Users/wooderz/Development/Dotnet Octopus/Dotnet Octopus/obj/Release/netcoreapp2.0/dotnet-octopus.pdb
+/Users/wooderz/Development/Dotnet Octopus/Dotnet Octopus/obj/Release/netcoreapp2.0/Dotnet Octopus.csprojAssemblyReference.cache
