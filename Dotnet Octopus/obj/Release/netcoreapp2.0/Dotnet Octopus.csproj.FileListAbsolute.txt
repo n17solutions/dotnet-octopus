@@ -1,0 +1,10 @@
+/Users/wooderz/Development/Dotnet Octopus/Dotnet Octopus/bin/Release/netcoreapp2.0/dotnet-octopus.deps.json
+/Users/wooderz/Development/Dotnet Octopus/Dotnet Octopus/bin/Release/netcoreapp2.0/dotnet-octopus.runtimeconfig.json
+/Users/wooderz/Development/Dotnet Octopus/Dotnet Octopus/bin/Release/netcoreapp2.0/dotnet-octopus.runtimeconfig.dev.json
+/Users/wooderz/Development/Dotnet Octopus/Dotnet Octopus/bin/Release/netcoreapp2.0/dotnet-octopus.dll
+/Users/wooderz/Development/Dotnet Octopus/Dotnet Octopus/bin/Release/netcoreapp2.0/dotnet-octopus.pdb
+/Users/wooderz/Development/Dotnet Octopus/Dotnet Octopus/obj/Release/netcoreapp2.0/Dotnet Octopus.csproj.CoreCompileInputs.cache
+/Users/wooderz/Development/Dotnet Octopus/Dotnet Octopus/obj/Release/netcoreapp2.0/Dotnet Octopus.AssemblyInfoInputs.cache
+/Users/wooderz/Development/Dotnet Octopus/Dotnet Octopus/obj/Release/netcoreapp2.0/Dotnet Octopus.AssemblyInfo.cs
+/Users/wooderz/Development/Dotnet Octopus/Dotnet Octopus/obj/Release/netcoreapp2.0/dotnet-octopus.dll
+/Users/wooderz/Development/Dotnet Octopus/Dotnet Octopus/obj/Release/netcoreapp2.0/dotnet-octopus.pdb

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>dotnet-n17solutions-octopus</id>
+    <version>1.0.0</version>
+    <title>N17 Solutions Octopus Deploy DotNet CLI</title>
+    <authors>James Woodley</authors>
+    <owners>James Woodley</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Allows creation and promotion of releases within Octopus Deploy</description>
+    <tags>octopus deploy n17 solutions n17solutions dotnet cli</tags>
+    <packageTypes>
+      <packageType name="DotnetCliTool" />
+    </packageTypes>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.0">
+        <dependency id="Microsoft.Extensions.CommandLineUtils" version="1.1.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.NETCore.App" version="2.0.0" exclude="Build,Analyzers" />
+        <dependency id="Octopus.Client" version="4.36.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/wooderz/Development/Dotnet Octopus/Dotnet Octopus/bin/Release/netcoreapp2.0/dotnet-octopus.runtimeconfig.json" target="lib/netcoreapp2.0/dotnet-octopus.runtimeconfig.json" />
+    <file src="/Users/wooderz/Development/Dotnet Octopus/Dotnet Octopus/bin/Release/netcoreapp2.0/dotnet-octopus.dll" target="lib/netcoreapp2.0/dotnet-octopus.dll" />
+  </files>
+</package>
