@@ -7,6 +7,7 @@
     <authors>James Woodley</authors>
     <owners>James Woodley</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>http://www.n17solutions.com/assets/images/logo-dark background.png</iconUrl>
     <description>Allows creation and promotion of releases within Octopus Deploy</description>
     <tags>octopus deploy n17 solutions n17solutions dotnet cli</tags>
     <packageTypes>
@@ -15,7 +16,6 @@
     <dependencies>
       <group targetFramework=".NETCoreApp2.0">
         <dependency id="Microsoft.Extensions.CommandLineUtils" version="1.1.1" exclude="Build,Analyzers" />
-        <dependency id="Microsoft.NETCore.App" version="2.0.0" exclude="Build,Analyzers" />
         <dependency id="Octopus.Client" version="4.36.2" exclude="Build,Analyzers" />
       </group>
     </dependencies>

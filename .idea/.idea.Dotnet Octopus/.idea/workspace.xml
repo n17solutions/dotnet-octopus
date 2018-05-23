@@ -10,44 +10,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dotnet Octopus/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
-              <folding>
-                <marker date="1527090637669" expanded="true" signature="6:157" ph="..." />
-                <marker date="1527090637669" expanded="true" signature="183:9810" ph="{...}" />
-                <marker date="1527090637669" expanded="true" signature="209:314" ph="{...}" />
-                <marker date="1527090637669" expanded="true" signature="351:9808" ph="{...}" />
-                <marker date="1527090637669" expanded="true" signature="404:5808" ph="{...}" />
-                <marker date="1527090637669" expanded="true" signature="1159:3137" ph="{...}" />
-                <marker date="1527090637669" expanded="true" signature="1831:3121" ph="{...}" />
-                <marker date="1527090637669" expanded="true" signature="1948:2121" ph="{...}" />
-                <marker date="1527090637669" expanded="true" signature="2188:2362" ph="{...}" />
-                <marker date="1527090637669" expanded="true" signature="2438:2617" ph="{...}" />
-                <marker date="1527090637669" expanded="true" signature="2688:2861" ph="{...}" />
-                <marker date="1527090637669" expanded="true" signature="3185:5646" ph="{...}" />
-                <marker date="1527090637669" expanded="true" signature="4058:5630" ph="{...}" />
-                <marker date="1527090637669" expanded="true" signature="4175:4348" ph="{...}" />
-                <marker date="1527090637669" expanded="true" signature="4415:4589" ph="{...}" />
-                <marker date="1527090637669" expanded="true" signature="4665:4844" ph="{...}" />
-                <marker date="1527090637669" expanded="true" signature="4915:5088" ph="{...}" />
-                <marker date="1527090637669" expanded="true" signature="5164:5342" ph="{...}" />
-                <marker date="1527090637669" expanded="true" signature="5927:7980" ph="{...}" />
-                <marker date="1527090637669" expanded="true" signature="6069:7724" ph="{...}" />
-                <marker date="1527090637669" expanded="true" signature="6266:7683" ph="{...}" />
-                <marker date="1527090637669" expanded="true" signature="7025:7141" ph="{...}" />
-                <marker date="1527090637669" expanded="true" signature="7210:7563" ph="{...}" />
-                <marker date="1527090637669" expanded="true" signature="7323:7456" ph="{...}" />
-                <marker date="1527090637669" expanded="true" signature="7757:7970" ph="{...}" />
-                <marker date="1527090637669" expanded="true" signature="8132:9802" ph="{...}" />
-                <marker date="1527090637669" expanded="true" signature="8309:9545" ph="{...}" />
-                <marker date="1527090637669" expanded="true" signature="8506:9504" ph="{...}" />
-                <marker date="1527090637669" expanded="true" signature="9192:9377" ph="{...}" />
-                <marker date="1527090637669" expanded="true" signature="9578:9792" ph="{...}" />
-              </folding>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="105">
+                <caret line="7" column="157" selection-start-line="7" selection-start-column="157" selection-end-line="7" selection-end-column="157" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -55,13 +26,16 @@
       <file leaf-file-name="Dotnet Octopus.csproj" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Dotnet Octopus/Dotnet Octopus.csproj">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+            <state relative-caret-position="270">
+              <caret line="18" column="105" lean-forward="true" selection-start-line="18" selection-start-column="105" selection-end-line="18" selection-end-column="105" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Dotnet Octopus/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -70,6 +44,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Dotnet Octopus/Program.cs" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Dotnet Octopus/Dotnet Octopus.csproj" />
       </list>
     </option>
@@ -80,11 +55,12 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1920" />
-    <option name="height" value="1140" />
+    <option name="height" value="1138" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -97,6 +73,11 @@
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="Dotnet Octopus (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Dotnet Octopus (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Solution Items" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
@@ -155,12 +136,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527080813956</updated>
-      <workItem from="1527080815586" duration="8477000" />
+      <workItem from="1527080815586" duration="9211000" />
+      <workItem from="1527092522874" duration="555000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8477000" />
+    <option name="totallyTimeSpent" value="9766000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -172,86 +154,80 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="23" width="1920" height="1138" extended-state="6" />
+    <frame x="0" y="23" width="1920" height="1138" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32949087" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32949087" />
-      <window_info anchor="bottom" id="NuGet" weight="0.32949087" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25239617" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Build" weight="0.32949087" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32949087" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32949087" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2550586" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32949087" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39961576" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="UnityProjectConfiguration" isUnityUI="false" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="7" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Dotnet Octopus/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
+        <state relative-caret-position="125">
           <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
-          <folding>
-            <marker date="1527090637669" expanded="true" signature="6:157" ph="..." />
-            <marker date="1527090637669" expanded="true" signature="183:9810" ph="{...}" />
-            <marker date="1527090637669" expanded="true" signature="209:314" ph="{...}" />
-            <marker date="1527090637669" expanded="true" signature="351:9808" ph="{...}" />
-            <marker date="1527090637669" expanded="true" signature="404:5808" ph="{...}" />
-            <marker date="1527090637669" expanded="true" signature="1159:3137" ph="{...}" />
-            <marker date="1527090637669" expanded="true" signature="1831:3121" ph="{...}" />
-            <marker date="1527090637669" expanded="true" signature="1948:2121" ph="{...}" />
-            <marker date="1527090637669" expanded="true" signature="2188:2362" ph="{...}" />
-            <marker date="1527090637669" expanded="true" signature="2438:2617" ph="{...}" />
-            <marker date="1527090637669" expanded="true" signature="2688:2861" ph="{...}" />
-            <marker date="1527090637669" expanded="true" signature="3185:5646" ph="{...}" />
-            <marker date="1527090637669" expanded="true" signature="4058:5630" ph="{...}" />
-            <marker date="1527090637669" expanded="true" signature="4175:4348" ph="{...}" />
-            <marker date="1527090637669" expanded="true" signature="4415:4589" ph="{...}" />
-            <marker date="1527090637669" expanded="true" signature="4665:4844" ph="{...}" />
-            <marker date="1527090637669" expanded="true" signature="4915:5088" ph="{...}" />
-            <marker date="1527090637669" expanded="true" signature="5164:5342" ph="{...}" />
-            <marker date="1527090637669" expanded="true" signature="5927:7980" ph="{...}" />
-            <marker date="1527090637669" expanded="true" signature="6069:7724" ph="{...}" />
-            <marker date="1527090637669" expanded="true" signature="6266:7683" ph="{...}" />
-            <marker date="1527090637669" expanded="true" signature="7025:7141" ph="{...}" />
-            <marker date="1527090637669" expanded="true" signature="7210:7563" ph="{...}" />
-            <marker date="1527090637669" expanded="true" signature="7323:7456" ph="{...}" />
-            <marker date="1527090637669" expanded="true" signature="7757:7970" ph="{...}" />
-            <marker date="1527090637669" expanded="true" signature="8132:9802" ph="{...}" />
-            <marker date="1527090637669" expanded="true" signature="8309:9545" ph="{...}" />
-            <marker date="1527090637669" expanded="true" signature="8506:9504" ph="{...}" />
-            <marker date="1527090637669" expanded="true" signature="9192:9377" ph="{...}" />
-            <marker date="1527090637669" expanded="true" signature="9578:9792" ph="{...}" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="157" selection-start-line="7" selection-start-column="157" selection-end-line="7" selection-end-column="157" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Dotnet Octopus/Dotnet Octopus.csproj">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        <state relative-caret-position="270">
+          <caret line="18" column="105" lean-forward="true" selection-start-line="18" selection-start-column="105" selection-end-line="18" selection-end-column="105" />
         </state>
       </provider>
     </entry>

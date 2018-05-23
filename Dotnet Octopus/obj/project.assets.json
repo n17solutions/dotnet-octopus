@@ -5007,7 +5007,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "/Users/wooderz/Development/Dotnet Octopus/Dotnet Octopus/Dotnet Octopus.csproj",
-      "projectName": "dotnet-octopus",
+      "projectName": "Dotnet Octopus",
       "projectPath": "/Users/wooderz/Development/Dotnet Octopus/Dotnet Octopus/Dotnet Octopus.csproj",
       "packagesPath": "/Users/wooderz/.nuget/packages/",
       "outputPath": "/Users/wooderz/Development/Dotnet Octopus/Dotnet Octopus/obj/",
@@ -5016,12 +5016,13 @@
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/wooderz/.nuget/NuGet/NuGet.Config"
+        "/Users/wooderz/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
+        "http://bart.whenyoumove.com/nuget/wym/": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -5043,6 +5044,7 @@
             "version": "[1.1.1, )"
           },
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.0.0, )",
             "autoReferenced": true

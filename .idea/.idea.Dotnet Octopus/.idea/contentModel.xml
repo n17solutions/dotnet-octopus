@@ -16,6 +16,8 @@
       </e>
       <e p="Dotnet Octopus.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />
+      <e p="README.md" t="Include" />
+      <e p="Solution Items" t="Include" />
     </e>
     <e p="$USER_HOME$/Library/Caches/Rider2018.1/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_Dotnet Octopus.-2103805040.00" t="ExcludeRecursive" />
   </component>
