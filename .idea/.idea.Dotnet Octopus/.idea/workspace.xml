@@ -3,16 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="15e438cc-1d6c-42a8-bdcd-b6fc350f05b5" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Dotnet Octopus/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Dotnet Octopus/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dotnet Octopus/bin/Release/dotnet-n17solutions-octopus.1.0.0.nupkg" beforeDir="false" afterPath="$PROJECT_DIR$/Dotnet Octopus/bin/Release/dotnet-n17solutions-octopus.1.0.0.nupkg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dotnet Octopus/bin/Release/netcoreapp2.0/dotnet-octopus.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Dotnet Octopus/bin/Release/netcoreapp2.0/dotnet-octopus.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dotnet Octopus/bin/Release/netcoreapp2.0/dotnet-octopus.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Dotnet Octopus/bin/Release/netcoreapp2.0/dotnet-octopus.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dotnet Octopus/Dotnet Octopus.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Dotnet Octopus/Dotnet Octopus.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dotnet Octopus/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Dotnet Octopus/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dotnet Octopus/obj/Dotnet Octopus.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Dotnet Octopus/obj/Dotnet Octopus.csproj.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dotnet Octopus/obj/Dotnet Octopus.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Dotnet Octopus/obj/Dotnet Octopus.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dotnet Octopus/obj/Release/dotnet-n17solutions-octopus.1.0.0.nuspec" beforeDir="false" afterPath="$PROJECT_DIR$/Dotnet Octopus/obj/Release/dotnet-n17solutions-octopus.1.0.0.nuspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dotnet Octopus/obj/Release/netcoreapp2.0/Dotnet Octopus.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Dotnet Octopus/obj/Release/netcoreapp2.0/Dotnet Octopus.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dotnet Octopus/obj/Release/netcoreapp2.0/dotnet-octopus.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Dotnet Octopus/obj/Release/netcoreapp2.0/dotnet-octopus.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dotnet Octopus/obj/Release/netcoreapp2.0/dotnet-octopus.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Dotnet Octopus/obj/Release/netcoreapp2.0/dotnet-octopus.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dotnet Octopus/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Dotnet Octopus/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dotnet Octopus/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Dotnet Octopus/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,7 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,9 +29,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Dotnet Octopus/Program.cs" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Dotnet Octopus/Dotnet Octopus.csproj" />
+        <option value="$PROJECT_DIR$/Dotnet Octopus/Program.cs" />
       </list>
     </option>
   </component>
@@ -63,6 +59,11 @@
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="Dotnet Octopus (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Dotnet Octopus (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Dotnet Octopus" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -118,12 +119,15 @@
       <updated>1527080813956</updated>
       <workItem from="1527080815586" duration="9211000" />
       <workItem from="1527092522874" duration="634000" />
-      <workItem from="1527117259026" duration="244000" />
+      <workItem from="1527117259026" duration="642000" />
+      <workItem from="1527144976356" duration="359000" />
+      <workItem from="1527145422453" duration="170000" />
+      <workItem from="1527235500014" duration="872000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10089000" />
+    <option name="totallyTimeSpent" value="11888000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -146,7 +150,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32949087" />
       <window_info anchor="bottom" id="NuGet" order="7" weight="0.32949087" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25772098" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2657082" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -175,25 +179,25 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dotnet Octopus/Program.cs">
+    <entry file="file://$PROJECT_DIR$/Dotnet Octopus/Dotnet Octopus.csproj">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+        <state relative-caret-position="105">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Dotnet Octopus/Dotnet Octopus.csproj">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="105" lean-forward="true" selection-start-line="18" selection-start-column="105" selection-end-line="18" selection-end-column="105" />
+        <state relative-caret-position="105">
+          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -209,6 +213,52 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dotnet Octopus/Dotnet Octopus.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dotnet Octopus/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="69" column="166" selection-start-line="69" selection-start-column="166" selection-end-line="69" selection-end-column="166" />
+          <folding>
+            <marker date="1527236533659" expanded="false" signature="6:157" ph="..." />
+            <marker date="1527236533659" expanded="true" signature="183:10081" ph="{...}" />
+            <marker date="1527236533659" expanded="true" signature="209:314" ph="{...}" />
+            <marker date="1527236533659" expanded="true" signature="351:10079" ph="{...}" />
+            <marker date="1527236533659" expanded="true" signature="404:6005" ph="{...}" />
+            <marker date="1527236533659" expanded="true" signature="1159:3334" ph="{...}" />
+            <marker date="1527236533659" expanded="true" signature="1980:3318" ph="{...}" />
+            <marker date="1527236533659" expanded="true" signature="2097:2270" ph="{...}" />
+            <marker date="1527236533659" expanded="true" signature="2337:2511" ph="{...}" />
+            <marker date="1527236533659" expanded="true" signature="2587:2766" ph="{...}" />
+            <marker date="1527236533659" expanded="true" signature="2837:3010" ph="{...}" />
+            <marker date="1527236533659" expanded="true" signature="3382:5843" ph="{...}" />
+            <marker date="1527236533659" expanded="true" signature="4255:5827" ph="{...}" />
+            <marker date="1527236533659" expanded="true" signature="4372:4545" ph="{...}" />
+            <marker date="1527236533659" expanded="true" signature="4612:4786" ph="{...}" />
+            <marker date="1527236533659" expanded="true" signature="4862:5041" ph="{...}" />
+            <marker date="1527236533659" expanded="true" signature="5112:5285" ph="{...}" />
+            <marker date="1527236533659" expanded="true" signature="5361:5539" ph="{...}" />
+            <marker date="1527236533659" expanded="true" signature="6145:8251" ph="{...}" />
+            <marker date="1527236533659" expanded="true" signature="6287:7995" ph="{...}" />
+            <marker date="1527236533659" expanded="true" signature="6484:7954" ph="{...}" />
+            <marker date="1527236533659" expanded="true" signature="7243:7412" ph="{...}" />
+            <marker date="1527236533659" expanded="true" signature="7481:7834" ph="{...}" />
+            <marker date="1527236533659" expanded="true" signature="7594:7727" ph="{...}" />
+            <marker date="1527236533659" expanded="true" signature="8028:8241" ph="{...}" />
+            <marker date="1527236533659" expanded="true" signature="8403:10073" ph="{...}" />
+            <marker date="1527236533659" expanded="true" signature="8580:9816" ph="{...}" />
+            <marker date="1527236533659" expanded="true" signature="8777:9775" ph="{...}" />
+            <marker date="1527236533659" expanded="true" signature="9463:9648" ph="{...}" />
+            <marker date="1527236533659" expanded="true" signature="9849:10063" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>

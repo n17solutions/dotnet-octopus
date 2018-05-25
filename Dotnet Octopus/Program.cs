@@ -35,6 +35,7 @@ namespace Dotnet.Octopus
                 var apiKeyOption = config.Option(apiKey.Template, apiKey.Description, CommandOptionType.SingleValue);
                 var projectNameOption = config.Option(projectName.Template, projectName.Description, CommandOptionType.SingleValue);
                 var semVerOption = config.Option(semVer.Template, semVer.Description, CommandOptionType.SingleValue);
+                var releaseNotesOption = config.Option("-rn | --release-notes <release-notes>", "The Release notes", CommandOptionType.SingleValue);
 
                 config.OnExecute(async () =>
                 {
@@ -66,7 +67,7 @@ namespace Dotnet.Octopus
                     if (!validationPassed)
                         return 1;
 
-                    return await CreateRelease(serverOption.Value(), apiKeyOption.Value(), projectNameOption.Value(), semVerOption.Value()).ConfigureAwait(false);
+                    return await CreateRelease(serverOption.Value(), apiKeyOption.Value(), projectNameOption.Value(), semVerOption.Value(), releaseNotesOption.Value()).ConfigureAwait(false);                    
                 });
             });
 
@@ -127,7 +128,7 @@ namespace Dotnet.Octopus
             Environment.Exit(result);
         }
 
-        private static async Task<int> CreateRelease(string server, string apiKey, string projectName, string semVer)
+        private static async Task<int> CreateRelease(string server, string apiKey, string projectName, string semVer, string releaseNotes)
         {
             Console.WriteLine($"Creating Octopus Deploy Release for project: {projectName} {semVer}");
             
@@ -144,7 +145,8 @@ namespace Dotnet.Octopus
                     var octoReleaseResource = new ReleaseResource
                     {
                         Version = semVer,
-                        ProjectId = octoProject.Id
+                        ProjectId = octoProject.Id,
+                        ReleaseNotes = releaseNotes
                     };
 
                     foreach (var package in octoTemplate.Packages)

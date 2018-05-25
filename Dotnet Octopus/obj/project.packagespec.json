@@ -47,5 +47,19 @@
       "assetTargetFallback": true,
       "warn": true
     }
+  },
+  "runtimes": {
+    "linux-x64": {
+      "#import": []
+    },
+    "osx-x64": {
+      "#import": []
+    },
+    "win-x64": {
+      "#import": []
+    },
+    "win-x86": {
+      "#import": []
+    }
   }
 }
